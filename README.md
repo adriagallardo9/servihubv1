@@ -23,7 +23,7 @@ Quan acabis, al codi no hi ha de quedar cap `Forat.n(...)`.
 
 ## Com començar
 
-1. Descomprimeix `servihub-pr1.zip` i obre la carpeta amb **IntelliJ IDEA** (projecte Maven, Java 21).
+1. Descomprimeix `servihub-pr1.zip` i obre la carpeta amb **IntelliJ IDEA** (projecte Maven, Java 25).
 2. Escriu el teu nom a la línia **Alumne/a** d'aquest README.
 3. Crea un repositori **nou** al teu compte de GitHub amb el nom `0490-pr1-servihub` i puja-hi el projecte
    (primer commit: `PR1 punt de partida`).
